@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yusha-37
+- 👋 Hi, I’m Yusha.
 - 👀 I’m interested in painting, programming, reading, writing, traveling, sleeping.
 - 🌱 I’m currently learning web development
 - 📫 How to reach me - flying
